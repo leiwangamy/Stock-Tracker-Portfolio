@@ -37,9 +37,9 @@ A missing close is filled only when that price belongs to the same session. The 
 
 ## Acknowledgments
 
-Reference calculators in the private LEIBOT project, not included here: Dyno Fu, LMK, MIT, Copyright (c) 2016 Dyno Fu.
+Reference calculators in the private LEIBOT project, not included here: Dyno Fu, [LMK](https://github.com/dyno/LMK), MIT, Copyright (c) 2016 Dyno Fu.
 
-Studied reference, also not included: quant001, project Jesse-Livermore. No personal name was published with that project.
+Studied reference, also not included: quant001, project [Jesse-Livermore](https://gitee.com/quant001/Jesse-Livermore). That project is on Gitee, not GitHub. No personal name was published with it.
 
 Libraries, used as installed packages: Python, pandas, NumPy, Flask, yfinance, Matplotlib, openpyxl.
 
